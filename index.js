@@ -1,20 +1,14 @@
-/* String
-const what = "devinan";
- String 은 문자열
+/* const monday = "Mon";
+const tue = "Tue";
+const wed = "Wed";
+const thu = "Thu";
+const fri = "Fri";
+
+console.log(monday, tue, wed, thu, fri);
 */
 
-/* Boolean 
-const wat = true;
-    Boolean 은 참(1) 거짓(0)
-*/
+const daysOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri"];
 
-/* Number 
-const wat = 123;
-    Number 은 숫자
-*/
+console.log(daysOfWeek);
 
-/* Float
-const wat = 123.435;
-console.log(wat);
-    Float 은 소수자리까지
-*/
+// [] 는 데이터를 정리할때 쓰는 array이다.
